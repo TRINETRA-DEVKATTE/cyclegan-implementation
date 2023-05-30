@@ -47,8 +47,28 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Acknowledgements
 
-- The code structure and some utilities are based on the official CycleGAN implementation by Jun-Yan Zhu et al.
-- We would like to thank the authors of the CycleGAN paper for their valuable contributions.
+I would like to acknowledge and give credit to the authors of the original CycleGAN paper:
+
+- Jun-Yan Zhu
+- Taesung Park
+- Phillip Isola
+- Alexei A. Efros
+
+Their work on unpaired image-to-image translation using cycle-consistent adversarial networks has significantly contributed to the field of machine learning and computer vision. We appreciate their valuable research and the resources they have provided to the community.
+
+If you use this implementation or refer to their work, please cite their paper:
+
+```
+@inproceedings{zhu2017unpaired,
+  title={Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks},
+  author={Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision (ICCV)},
+  year={2017}
+}
+```
+
+[Original CycleGAN Paper](https://arxiv.org/abs/1703.10593) | [CycleGAN Project Page](https://junyanz.github.io/CycleGAN/) | [CycleGAN GitHub Repository](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/README.md)
+
 
 ## References
 
